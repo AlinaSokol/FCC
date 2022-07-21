@@ -1,3 +1,4 @@
 var myFirstName = 'Alina';
 var myLastName = 'Sokol';
-return myFirstName + myLastName;
+var myFathName = 'Andreevna';
+return myFirstName + myLastName + myFathName;

@@ -3,13 +3,13 @@ function switchOfStuff(val) {
   // Only change code below this line
 switch (val) {
   case "a":
-  return 'apple';
+  return 'add';
   break;
   case 'b':
-  return 'bird';
+  return 'board';
   break;
   case 'c':
-  return 'cat';
+  return 'clone';
   break;
   default:
   return 'stuff';

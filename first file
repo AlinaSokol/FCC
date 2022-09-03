@@ -1,5 +1,5 @@
-var myFirstName = 'Alina';
+var myFirstName = 'Alex';
 var myLastName = 'Sokol';
-var age = 28;
+var age = 29;
 
 return myFirstName + myLastName + myFathName;

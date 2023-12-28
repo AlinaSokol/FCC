@@ -3,15 +3,15 @@ function switchOfStuff(val) {
   // Only change code below this line
 switch (val) {
   case "a":
-  return 'add';
-  break;
+    return 'add';
+    break;
   case 'b':
-  return 'board';
-  break;
+    return 'board';
+    break;
   case 'c':
-  return 'clone';
-  break;
+    return 'clone';
+    break;
   default:
-  return 'stuff';
-  break;
+    return 'stuff';
+    break;
 }
